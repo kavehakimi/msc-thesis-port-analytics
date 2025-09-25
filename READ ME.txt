@@ -1,0 +1,57 @@
+## Project title: Developing an Intelligent System for Effectively Perform Loading and Discharge Operation in a Container Terminal – Bournemouth University (2023)
+
+## Key Modules: Machine Learning, Deep Learning, Big Data Analytics
+
+## ML technique: Supervised learning
+
+## Data
+The dataset used in this project contains sensitive information 
+from Shahid Rajaee Port and cannot be shared publicly. 
+
+For reproducibility, you may replace the `data/` folder with 
+your own dataset matching the required schema (see code comments).
+
+## Total records broken down by container type:
+The discharge dataset contains a total of 10119 DC containers.
+The discharge dataset contains a total of 16 DG containers.
+The discharge dataset contains a total of 220 FLT containers.
+The discharge dataset contains a total of 7746 HC containers.
+The discharge dataset contains a total of 895 HRF containers.
+The discharge dataset contains a total of 49 OG containers.
+The discharge dataset contains a total of 124 OT containers.
+The discharge dataset contains a total of 789 RF containers.
+The discharge dataset contains a total of 42 TNK containers.
+The discharge dataset contains a total of 20000 records in all container type.
+
+
+## Results:
+Discharge:
+
+Random Forest Algorithm for <<Block Name>>:
+-------------------
+Accuracy on training set: 0.9964198659354052
+Accuracy on testing set: 0.8403898872982029
+-------------------
+Precision on training set: 0.9948256410345279
+Precision on testing set: 0.8168381332483012
+-------------------
+Recall on training set: 0.9902205122860599
+Recall on testing set: 0.7149784830177067
+-------------------
+F1 score on training set: 0.9923169400056843
+F1 score on testing set: 0.7384577811690293
+
+Load:
+Random Forest Algorithm for sample voyage:
+-------------------
+Accuracy on training set: 0.9719387755102041
+Accuracy on testing set: 0.8163265306122449
+-------------------
+Precision on training set: 0.9680015338256934
+Precision on testing set: 0.8050934880722114
+-------------------
+Recall on training set: 0.9739143135024141
+Recall on testing set: 0.8355555555555556
+-------------------
+F1 score on training set: 0.9708580385999741
+F1 score on testing set: 0.8147987737593133

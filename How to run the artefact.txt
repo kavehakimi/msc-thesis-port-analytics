@@ -1,0 +1,5 @@
+For running this program, you can choose one of the following options:
+1.	Install Anaconda3 (64 bit) on Mac or Windows and then run Jupyter Notebook;
+2.	Run Jupyter Notebook online via https://jupyter.org/; OR
+3.	Run Google Colab online via https://colab.research.google.com/.
+Please note that: Option 1 is recommended.
