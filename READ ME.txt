@@ -4,9 +4,9 @@ MSc Thesis — Bournemouth University (2023)
 
 ## Project Overview
 
-This project investigates the application of Machine Learning techniques to improve loading and discharge operations in container terminals. The main objective was to develop an intelligent decision-support system capable of predicting and optimizing operational processes within a real-world port environment.
+This project investigates the application of Machine Learning techniques to improve loading and discharge operations in container terminals. The main objective was to develop an intelligent decision-support system capable of predicting operational patterns and supporting intelligent optimisation of container terminal processes within a real-world port environment.
 
-The research focused on analysing operational container data from Shahid Rajaee Port and applying supervised learning models to support more efficient terminal planning and container handling operations.
+The research focused on analysing operational container data from Shahid Rajaee Port and applying supervised learning models to support more efficient terminal planning, resource allocation, and container handling operations.
 
 This work was completed as part of the MSc in Data Science and Artificial Intelligence at Bournemouth University.
 
@@ -15,10 +15,11 @@ This work was completed as part of the MSc in Data Science and Artificial Intell
 ## Research Areas
 
 - Machine Learning
+- Explainable AI (XAI)
 - Data Analytics
 - Port and Terminal Operations
 - Decision Support Systems
-- Operational Optimization
+- Operational Optimisation
 
 ---
 
@@ -31,6 +32,7 @@ This work was completed as part of the MSc in Data Science and Artificial Intell
 - Decision Trees
 - AdaBoost
 - Data Preprocessing and Feature Engineering
+- Model Evaluation and Interpretability
 
 ---
 
@@ -84,6 +86,12 @@ Random Forest also demonstrated effective prediction capability for loading oper
 - `How to run the artefact.txt` — Execution instructions
 - `LICENSE.txt` — License information
 - `README.md` — Project documentation
+
+---
+
+## Future Directions
+
+Potential future work includes integrating explainable AI techniques, uncertainty-aware modelling, and deep learning approaches for more adaptive and transparent operational decision-support systems.
 
 ---
 
